@@ -2,7 +2,7 @@
 
 
 General description:
-Quick fix in python. You can place the script inot an SSM Automation.
+Quick fix in python. You can place the script into a SSM Automation.
 
 References:
 
