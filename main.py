@@ -1,4 +1,3 @@
-from xml.etree.ElementTree import ElementTree, tostring
 import xml.etree.ElementTree as ET
 import subprocess
 
