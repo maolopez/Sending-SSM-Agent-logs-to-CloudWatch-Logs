@@ -14,6 +14,6 @@ https://github.com/aws/amazon-ssm-agent/blob/mainline/seelog_windows.xml.templat
 
 https://stackoverflow.com/questions/3095434/inserting-newlines-in-xml-file-generated-via-xml-etree-elementtree-in-python
 
-
+https://docs.aws.amazon.com/systems-manager/latest/userguide/automation-action-executeScript.html
 
 
